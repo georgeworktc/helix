@@ -1,8 +1,8 @@
 # Your Project's Title...
 Your project's description...
 
-## Environments
-- Preview: https://main--{repo}--{owner}.hlx.page/
+## Environment
+- Preview: https://main--helix--georgeworktc.hlx.page/
 - Live: https://main--{repo}--{owner}.hlx.live/
 
 ## Installation
